@@ -120,12 +120,18 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Microsoft Azure Developer Associate',
+      body: 'Microsoft - ID I037-7694ID',
+      year: 'November 2021',
+      link: '',
     },
-  ],
+    {
+      name: 'Azure Fundamentals',
+      body: 'Microsoft - ID H551-7313',
+      year: 'October 2020',
+      link: '',
+    },
+  ],  
   educations: [
     {
       institution: 'CTU in Prague',
