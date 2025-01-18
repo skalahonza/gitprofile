@@ -135,9 +135,10 @@ const ExternalProjectCard = ({
                     {loading ? (
                       skeleton({ widthCls: 'w-40', heightCls: 'h-8' })
                     ) : (
-                      <span className="text-base-content opacity-70">
-                        {header}
-                      </span>
+                      <div>
+                        <div className="text-base-content opacity-70">{header}</div>
+                        <div className="text-sm">Projects I have contributed to as part of a team.</div>
+                      </div>
                     )}
                   </h5>
                 </div>
