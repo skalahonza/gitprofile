@@ -38,14 +38,20 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      header: 'Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
           title: 'slp.blue',
-          description: 'Modern document and quality management system for laboratories.',
+          description: 'Modern document and quality management system for laboratories. My position in the project is back-end developer and tech lead.',
           imageUrl: 'images/slp.blue.webp',
           link: 'https://slp.blue',
+        },
+        {
+          title: 'Talxis (integrations)',
+          description: 'Modular information system. My work was focused on integrations with other systems.',
+          imageUrl: 'https://www.talxis.com/assets/icons/talxis.svg',
+          link: 'https://www.talxis.com/',
         },
       ],
     },
