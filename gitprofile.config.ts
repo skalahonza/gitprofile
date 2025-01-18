@@ -128,17 +128,17 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'CTU in Prague',
+      degree: 'Master of Engineering (Ing.), Software Engineering',
+      from: '2019',
+      to: '2021',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
+      institution: 'CTU in Prague',
+      degree: 'Bachelor of Science (Bc.), Open Informatics (Programming)',
+      from: '2016',
+      to: '2019',
+    }
   ],
   publications: [
     {
