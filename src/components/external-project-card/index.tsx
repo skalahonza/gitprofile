@@ -137,7 +137,7 @@ const ExternalProjectCard = ({
                     ) : (
                       <div>
                         <div className="text-base-content opacity-70">{header}</div>
-                        <div className="text-sm">Projects I have contributed to as part of a team.</div>
+                        <div className="text-sm">Interesting projects I have contributed to as part of a team.</div>
                       </div>
                     )}
                   </h5>
