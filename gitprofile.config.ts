@@ -75,7 +75,7 @@ const CONFIG = {
           title: 'Heart Rate Detector',
           description: 'Measure, evaluate and share heart rate detected by a smartphone camera. My work was focused on back-end development and FHIR integration.',
           imageUrl: 'images/heart-rate-detector.webp',
-          link: 'https://datavid.org/en',
+          link: 'https://heart.mild.blue/',
         },
       ],
     },
