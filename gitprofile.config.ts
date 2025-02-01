@@ -28,12 +28,9 @@ const CONFIG = {
         projects: [
           'skalahonza/TidepoolToNightScoutSync',
           'skalahonza/github-star-search',
-          'skalahonza/uptime-kuma-cli-docker-wrapper',
           'skalahonza/instagram-hashtag-preview',
           'skalahonza/InfHelper',
           'skalahonza/DriversBackup',
-          'skalahonza/ElectronMaster',
-          'skalahonza/selfservicelibrary',
         ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
