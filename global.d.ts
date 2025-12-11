@@ -80,6 +80,7 @@ interface ExternalProjects {
     description?: string;
     imageUrl?: string;
     link: string;
+    position?: string;
   }[];
 }
 

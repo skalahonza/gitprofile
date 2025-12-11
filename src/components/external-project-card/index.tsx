@@ -96,6 +96,13 @@ const ExternalProjectCard = ({
                   <h2 className="font-medium text-center opacity-60 mb-2">
                     {item.title}
                   </h2>
+                  {item.position && (
+                    <div className="mb-2">
+                      <span className="badge badge-sm badge-outline text-base-content opacity-50">
+                        {item.position}
+                      </span>
+                    </div>
+                  )}
                   {item.imageUrl && (
                     <div className="avatar opacity-90">
                       <div className="w-24 h-24 mask mask-squircle">
